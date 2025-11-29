@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "authors": [
+    {
+      "name": "Yeni Yazar Adı",
+      "fileName": "yeni_yazar.jpg"
+    },
+    {
+      "name": "Ahmet Hamdi Tanpınar", 
+      "fileName": "ahmet_tanpinar.jpg"
+    }
+  ],
+  "books": [
+    {
+      "name": "Yeni Kitap Adı",
+      "fileName": "yeni_kitap.jpg"
+    }
+  ],
+  "quotes": [
+    {
+      "qte": "Yeni eklenen muazzam bir söz.",
+      "author_name": "Yeni Yazar Adı",
+      "book_name": null,
+      "category_name": "Hayat"
+    },
+    {
+      "qte": "Kitaptan bir alıntı.",
+      "author_name": "Ahmet Hamdi Tanpınar",
+      "book_name": "Saatleri Ayarlama Enstitüsü",
+      "category_name": "Roman"
+    }
+  ]
+}
