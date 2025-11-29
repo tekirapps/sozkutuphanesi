@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "authors": [
     {
       "name": "Yeni Yazar Adı",
@@ -18,8 +18,8 @@
   ],
   "quotes": [
     {
-      "qte": "Yeni eklenen muazzam bir söz.",
-      "author_name": "Yeni Yazar Adı",
+      "qte": "sen ben\nben sensen\nbiz biziz.",
+      "author_name": "Ahmet KINA",
       "book_name": null,
       "category_name": "Hayat"
     },
@@ -30,4 +30,5 @@
       "category_name": "Roman"
     }
   ]
+
 }
