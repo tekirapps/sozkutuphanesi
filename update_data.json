@@ -2,33 +2,38 @@
   "version": 3,
   "authors": [
     {
-      "name": "Yeni Yazar Adı",
-      "fileName": "yeni_yazar.jpg"
+      "name": "Pınar Salman",
+      "fileName": "Pınar Salman"
     },
     {
-      "name": "Ahmet Hamdi Tanpınar", 
-      "fileName": "ahmet_tanpinar.jpg"
+      "name": "Mehsa", 
+      "fileName": "Mehsa"
     }
   ],
   "books": [
     {
-      "name": "Yeni Kitap Adı",
-      "fileName": "yeni_kitap.jpg"
+      "name": "Kızıl Gerdan / Pınar Salman",
+      "fileName": "Kızıl Gerdan"
+    },
+     {
+      "name": "Mıh",
+      "fileName": Mıh / Mehsa"
     }
   ],
   "quotes": [
     {
-      "qte": "sen ben\nben sensen\nbiz biziz.",
-      "author_name": "Ahmet KINA",
-      "book_name": null,
+      "qte": "Ne adaletsiz bir dünyaydı bu!",
+      "author_name": "Pınar Salman",
+      "book_name": "Kızıl Gerdan / Pınar Salman",
       "category_name": "Hayat"
     },
     {
-      "qte": "Kitaptan bir alıntı.",
-      "author_name": "Ahmet Hamdi Tanpınar",
-      "book_name": "Saatleri Ayarlama Enstitüsü",
-      "category_name": "Roman"
+      "qte": "İçte tutulan göz yaşları,akıtılandan daha acıtıcıdır...",
+      "author_name": "Mehsa",
+      "book_name": "Mıh / Mehsa",
+      "category_name": "Hayat"
     }
   ]
 
 }
+
